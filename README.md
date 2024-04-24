@@ -1,0 +1,2 @@
+# macosapps
+brew install apps 
